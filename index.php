@@ -1,3 +1,3 @@
 <?php
-print 'Veikia!';
+print 'Veikia su Git!';
 ?>
